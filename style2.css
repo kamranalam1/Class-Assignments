@@ -24,7 +24,7 @@ body {
   
   /* Declare heights because of positioning of img element */
   .carousel-item {
-    height: 32rem;
+    height: 32em;
     background-color: #777;
   }
   .carousel-item > img {
@@ -89,4 +89,15 @@ body {
       margin-top: 7rem;
     }
   }
+  .java {
+    text-align: center;
+    
+    }
+    .html{
+      text-align: center;
+    }
+    .bootstrap{
+      text-align: center;
+    }
+  
   

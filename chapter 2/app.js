@@ -28,7 +28,7 @@ alert(certificate);
 // 5. Write a script to display the following alert using one JS
 // variable:
 
-var arrays= ["pizza \n" , "pizz \n" , "piz \n" , "pi \n","p"]
+var arrays= ["pizza \n" + "pizz \n" + "piz \n" + "pi \n"+"p"]
 
 alert(arrays)
 
